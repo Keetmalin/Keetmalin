@@ -5,7 +5,7 @@
 </p>
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Keet Sugathadasa </h1>
-<h3 align="center">Full Stack Developer | Site Reliability Engineer </h3>
+<h3 align="center">Technical Lead | Full Stack Developer | Site Reliability Engineer </h3>
 
 <p align="center">
 <a href="https://stackoverflow.com/users/4388776/keet-sugathadasa" target="_blank"><img align="center" src="https://user-images.githubusercontent.com/12439263/132090724-819b6afc-80f3-4101-88d0-d9a3b0b21f4b.png" alt="stackoverflow_keet" height="40" width="40" /></a>
